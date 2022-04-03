@@ -1,0 +1,72 @@
+{
+	"timezoneIndex" : [
+		"nighttime","nighttime","nighttime","nighttime",
+		"earlyMorning","earlyMorning","earlyMorning",
+		"morning","morning","morning","morning",
+		"lunchtime","lunchtime",
+		"earlyAfternoon","earlyAfternoon",
+		"afternoon","afternoon",
+		"dinnertime","dinnertime","dinnertime",
+		"evening","evening",
+		"earlyNighttime","earlyNighttime"
+	]
+	"nighttime" : [
+		"It's kinda late. Why are you awake?",
+		"If you're having trouble sleeping I'm very sorry. Maybe get a small snack or some water before going back to bed, if you can",
+		"It is very late. You should be asleep"
+	],
+	"earlyMorning" : [
+		"It is very early. Why are you awake?",
+		"If you were required to be up this early, I am very sorry",
+		"Maybe you should go back to sleep? But if you are required to be awake it might be useful to grab some breakfast"	
+	],
+	"morning" : [
+		"Good morning! I hope you slept well!",
+		"Good morning! Have any breakfast plans?",
+		"Happy sunshiney morning! Hope today will be a great day!"
+	],
+	"lunchtime" : [
+		"What's the plan for lunch?",
+		"What have you eaten today? Lunch might be in order",
+		"Lunchtime! If you haven't eaten anything today then it's definitely time to get some food"
+	],
+	"earlyAfternoon" : [
+		"How has the day been?",
+		"A post-lunch nap might be good, if you aren't busy",
+		"How was lunch?"
+	],
+	"afternoon" : [
+		"I think it's time for an afternoon snack. Yum",
+		"Second half of the day. You can do this!",
+		"What's the plan for the rest of the day? Make sure to get some well-deserved rest"
+	],
+	"dinnertime" : [
+		"What's for dinner?",
+		"Time to start thinking about dinner, if you haven't already",
+		"Make sure to get some dinner, and take some time to rest"
+	],
+	"evening" : [
+		"Any fun evening plans?",
+		"A movie or TV show might be fun",
+		"I hope your evening is going well!"
+	],
+	"earlyNighttime" : [
+		"You might want to think about going to bed soon",
+		"Feeling tired? It might be time to start heading for bed, or at least thinking about it",
+		"A late night snack might be in order, then bedtime"
+	],
+	"general" : [
+		"Take care of yourself, friends!",
+		"Remember that you are loved and supported. Have a great day!",
+		"Remember to take care of yourself, and get some rest if you need it!"
+	]
+}
+
+
+
+
+
+
+
+
+
